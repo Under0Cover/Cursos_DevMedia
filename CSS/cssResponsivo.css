@@ -1,0 +1,48 @@
+div {
+	padding:4px;
+	border:1px solid red;
+}
+
+.container {
+	margin-left:auto;
+	margin-right:auto;
+	padding:0px;
+	width:100%;
+}
+
+@media (min-width:1200px) {
+	/* instruções para monitores largos */
+	.container {
+		max-width:1100px;
+		background:yellow;
+	}
+	.row {
+		display:block;
+		width:19%;
+		float:left;
+	}
+}
+
+
+@media (min-width:768px) and (max-width:979px) {
+	.container {
+		max-width:940px;
+		background:green;
+		color:white;
+	}
+}
+
+@media (max-width:767px) {
+	.container {
+		max-width:720px;
+		background:gray;
+	}
+}
+
+@media (max-width:480px) {
+	.container {
+		max-width:460px;
+		background:red;
+		border:1px solid black;
+	}
+}
