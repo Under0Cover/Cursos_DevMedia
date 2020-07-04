@@ -1,0 +1,14 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd" >
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<title>Meta Tags</title>
+		<meta name="Description" content="Vídeoaula relativa ao uso de Meta Tags"/>
+		<meta name="Keywords" content="Vídeoaula, DevMedia, Curso, HTML" />
+		
+		<meta http-equiv="Refresh" content="30; URL=http://www.devmedia.com.br" />
+	</head>
+	<body>
+		<p>Você será redirencionado em 30 Segundos</p>
+	</body>
+</html>

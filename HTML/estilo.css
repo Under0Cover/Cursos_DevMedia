@@ -1,0 +1,68 @@
+/* Definição por tipo/nome do elemento */
+body {
+	background: #000000;
+	color: #FFFFFF;
+	font-size: 20px;
+	padding: 0px;	
+	margin: 0px;
+}
+
+p {
+	border: 1px dashed #FFFFFF;
+	margin: 10px;
+	padding: 10px;
+}
+
+/* Definição por id do elemento */
+
+#bloco02 {
+	border: 3px solid #FFFFFF;
+	background: green;
+	color: yellow;
+}
+/* Definição usando classes */
+
+.p_paragrafoinicial {
+	font-size: 26px;
+	font-style: italic;
+}
+
+.fundoazul {
+	background: blue;
+}
+
+/* css aula 37 e 38 */
+.div_margeminferior{
+	padding: 10px;
+	margin-bottom: 20px;
+	padding-bottom: 20px;
+	border-bottom: 1px solid #FFFFFF;
+}
+
+.div_geral {
+	width: 940px;
+	background: green;
+	margin-left: auto;
+	margin-right: auto;
+	display: table;
+}
+
+.div_celulavermelha {
+	background: red;
+}
+
+.div_colunaesquerda {
+	width: 50%;
+	float: left;
+}
+
+.div_colunadireita {
+	width: 50%;
+	float: right;
+}
+
+.div_colunacentral {
+	width: 100%;
+	border-top: 1px solid #FFFFFF;
+	float: left;
+}

@@ -1,0 +1,53 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd" >
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<title>TAG a - Ancoras</title>
+		<meta name="Description" content=""/>
+		<meta name="Keywords" content="" />
+	</head>
+	<body>
+		<a name="topo"></a>
+		<h3>Trabalhando com Ancoras</h3>
+		
+		<ul>
+			<li><a href="#quemsomos">Quem somos</a></li>
+			<li><a href="#historico">Histórico</a></li>
+			<li><a href="#oquefazemos">O que fazemos</a></li>
+			<li><a href="#faleconosco">Fale Conosco</a></li>
+			<li><a href="#equipe">Equipe</a></li>
+		</ul>
+		<hr />
+		
+		<hr />
+		
+		<hr />
+		
+		<hr />
+		<a name="quemsomos"></a>
+		<h3>Quem somos</h3>
+		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam bibendum suscipit eros, ac ullamcorper velit. Aliquam eget dui arcu. Maecenas quis ullamcorper justo. Nullam volutpat, eros nec faucibus ultrices, neque ex congue est, at aliquet neque risus at nisl. Maecenas at facilisis lacus, eget aliquam ex. Aenean non turpis vehicula libero efficitur posuere vel et massa. Vestibulum lobortis dapibus ante aliquam efficitur. Phasellus ultricies fermentum arcu, ac finibus magna gravida at.</p>
+		<p><a href="#topo">Topo</a></p>
+		
+		<a name="historico"></a>
+		<h3>Histórico</h3>
+		<p>Suspendisse potenti. Curabitur scelerisque mattis ipsum, vitae pretium quam. Aliquam interdum vulputate purus. Nullam viverra enim vitae justo fringilla, ac facilisis urna tempus. Suspendisse aliquam auctor tortor, quis posuere sem iaculis at. Nulla tempus, ante eu lacinia pharetra, nunc sem suscipit metus, quis scelerisque augue augue in est. Duis at orci non felis dapibus porttitor nec non massa. Donec accumsan sem vitae massa venenatis, luctus aliquet diam commodo. Nullam rhoncus urna a gravida euismod. Vestibulum eget mattis dui, ac vulputate metus. Suspendisse ut libero suscipit, lacinia orci a, euismod nisi.</p>
+		<p><a href="#topo">Topo</a></p>
+
+		<a name="oquefazemos"></a>
+		<h3>O que fazemos</h3>
+		<p>Integer ac odio et sem efficitur vulputate ut et massa. Pellentesque molestie urna at justo mollis scelerisque. Nam tincidunt dignissim tellus, id sodales nisi sagittis nec. Vestibulum id placerat sapien. Integer pellentesque turpis id augue viverra ullamcorper. Morbi eget dolor dolor. Sed consectetur egestas ante eu cursus. Cras interdum lectus id orci vulputate semper. Sed lobortis ullamcorper metus, consectetur vulputate arcu molestie id. Phasellus consequat leo nec magna ornare, ac pretium sapien laoreet. Fusce non tortor mi. Aenean magna mauris, cursus a gravida commodo, lacinia eget quam. Pellentesque ac ipsum nec nisi sollicitudin mattis. Pellentesque pellentesque aliquam risus, ut posuere tellus pharetra sed.</p>
+		<p><a href="#topo">Topo</a></p>
+
+		<a name="faleconosco"></a>
+		<h3>Fale Conosco</h3>
+		<p>Maecenas ultricies felis finibus feugiat dignissim. Maecenas sollicitudin ipsum ac magna hendrerit, id pulvinar nibh gravida. Cras hendrerit a est sodales hendrerit. Phasellus mattis tempus tempus. Aenean id ante libero. Phasellus ipsum orci, luctus sed mattis vel, dapibus ut libero. Ut laoreet eu nulla non imperdiet. Nunc porta ultricies arcu sed tempus. Maecenas molestie dolor congue ante elementum congue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Suspendisse tincidunt, tortor et luctus aliquet, velit dui hendrerit elit, sit amet interdum purus risus eget enim.</p>
+		<p><a href="#topo">Topo</a></p>
+
+		<a name="equipe"></a>
+		<h3>Equipe</h3>
+		<p>Nunc ullamcorper tempor nisi, vitae imperdiet ipsum dignissim et. Phasellus a fermentum urna. Nulla in lacus quam. Donec ac justo id turpis bibendum accumsan in non massa. Sed sagittis viverra massa et laoreet. Donec malesuada pretium mi. Quisque in magna gravida, ultricies arcu a, varius augue. Praesent pharetra mauris at ipsum faucibus porta quis ut purus. Mauris ligula enim, mattis bibendum fringilla id, feugiat at nunc. Integer congue, elit nec viverra molestie, justo mi egestas sapien, eu fringilla nunc dolor id nisi. Aliquam vitae nunc sollicitudin, commodo ex at, aliquam tellus. Nunc accumsan at tortor ut volutpat. </p>
+		<p><a href="#topo">Topo</a></p>
+		
+	</body>
+</html>

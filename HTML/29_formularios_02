@@ -1,0 +1,34 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd" >
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<title>TAG form - Formulários</title>
+		<meta name="Description" content=""/>
+		<meta name="Keywords" content="" />
+	</head>
+	<body>
+		<form>
+			<p>
+				Campo de texto <br />
+				<input type="text" name="nomedocampo" id="nomedocampo" maxlength="15" size="60" value="Texto Inicial" disabled="disabled" />
+			</p>
+			<p>
+				Campo Oculto:<br />
+				<input type="hidden" value="valor inicial do campo" />
+			</p>
+			<p>
+				Campo Select:<br />
+				<select name="nomecamposelect" id="idcamposelect" multiple="multiple" style="width:200px">
+					<option value="valor do campo">Label ou rótulo</option>
+					<option value="valor do campo">Label ou rótulo</option>
+					<option value="valor do campo">Label ou rótulo</option>
+					<option value="valor do campo">Label ou rótulo</option>
+					<option value="valor do campo">Label ou rótulo</option>
+					<option value="valor do campo">Label ou rótulo</option>
+					<option value="valor do campo">Label ou rótulo</option>
+					<option value="valor do campo">Label ou rótulo</option>
+				</select>
+			</p>
+		</form>
+	</body>
+</html>

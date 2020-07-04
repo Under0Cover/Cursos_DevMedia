@@ -1,0 +1,18 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd" >
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<title>BLOCKQUOTE</title>
+		<meta name="Description" content=""/>
+		<meta name="Keywords" content="" />
+	</head>
+	<body>
+		<h3>Conheça a TAG BLOCKQUOTE</h3>
+		<p>Verifique como funciona o BLOCKQUOTE, dentro do elemento abaixo:</p>
+		<blockquote cite="http://devmedia.com" style="background:#EFEFEF; padding:8px; border:#CCC solid 1px">
+		Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus a arcu mauris. Etiam sit amet luctus ex, porta posuere velit. Duis elit massa, rutrum nec nisi sed, cursus facilisis orci. Donec placerat vestibulum lorem. Ut sit amet urna pretium, laoreet tortor at, rhoncus leo. Donec a augue egestas, condimentum ex at, egestas dolor. Nulla id facilisis odio. Mauris interdum ultrices pharetra. Donec at purus condimentum, placerat elit ac, ullamcorper odio.
+		<p><strong>Texto retirado de Devmedia.com</strong></p>
+		</blockquote>
+		
+	</body>
+</html>

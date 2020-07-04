@@ -1,0 +1,26 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd" >
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<title>TAG form - Formulários</title>
+		<meta name="Description" content=""/>
+		<meta name="Keywords" content="" />
+	</head>
+	<body>
+		<form method="post" action="sophie001.jfif">
+			<p>
+				<input type="checkbox" name="opcaomarcar1" id="opcaomarcar1" value="1" checked="checked" />	Opção 1<br />
+				<input type="checkbox" name="opcaomarcar2" id="opcaomarcar2" value="2" />	Opção 2<br />
+				<input type="checkbox" name="opcaomarcar3" id="opcaomarcar3" value="3" />	Opção 3<br />
+				<input type="checkbox" name="opcaomarcar4" id="opcaomarcar4" value="4" />	Opção 4<br />
+			</p>
+			<p>
+				<input type="radio" name="grupo01" id="id01" value="Opção1" checked="checked" />Somente uma opção - Item 1 <br />
+				<input type="radio" name="grupo01" id="id02" value="Opção2" />Somente uma opção - Item 2 <br />
+				<input type="radio" name="grupo01" id="id03" value="Opção3" />Somente uma opção - Item 3 <br />
+				<input type="radio" name="grupo01" id="id04" value="Opção4" />Somente uma opção - Item 4 <br />
+				<input type="radio" name="grupo01" id="id05" value="Opção5" />Somente uma opção - Item 5 <br />
+			</p>
+		</form>
+	</body>
+</html>

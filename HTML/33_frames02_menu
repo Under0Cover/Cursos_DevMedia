@@ -1,0 +1,21 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd" >
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<title>Listas Não Ordenadas</title>
+		<meta name="Description" content=""/>
+		<meta name="Keywords" content="" />
+	</head>
+	<body>
+		<h3>Menu de navegação</h3>
+		<ul>
+			<li><a href="http://www.devmedia.com.br" target="janela02">Site Devmedia - Janela 02</a></li>
+			<li><a href="27_tabela03.html" target="janela02"></a>Janela 03</li>
+			<li><a href="http://google.com" target="janela01"></a>Mesma Janela</li>
+			<li><a href="http://globoesporte.globo.com" target="janela03"></a>Janela 02</li>
+			<li><a href="http://xvideos.com" target="janela03"></a>Janela 01</li>
+			<li><a href="http://hotmail.com" target="janela02"></a>Janela 00</li>
+		</ul>
+		
+	</body>
+</html>

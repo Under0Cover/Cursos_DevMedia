@@ -1,0 +1,44 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd" >
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<title>JavaScript</title>
+		<meta name="Description" content=""/>
+		<meta name="Keywords" content="" />
+		<link href="estilo.css" rel="stylesheet" type="text/css" />
+	</head>
+	<body>
+		<div class="div_geral">
+			<form onsubmit="return validalogin()">
+				<table width="400" align="center" border="1" cellpadding="4">
+					<tr>
+						<td colspan="2">
+							<h2>Efetue Login</h2>
+						</td>
+					</tr>
+					<tr>
+						<td>Usuário:</td>
+						<td>
+							<input id="inputusuario" type="text" />
+						</td>
+					</tr>
+					<tr>
+						<td>Senha:</td>
+						<td>
+							<input id="inputsenha" type="password" />
+						</td>
+					</tr>
+					<tr>
+						<td>
+							<input type="submit" value="Limpar" />
+						</td>
+						<td>
+							<input type="submit" value="Enviar" />
+						</td>
+					</tr>
+				</table>
+			</form>
+		</div>
+	</body>
+	<script src="javascript.js" language="javascript" type="text/javascript" ></script>
+</html>

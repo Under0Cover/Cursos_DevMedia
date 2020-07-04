@@ -1,0 +1,24 @@
+<html>
+	<head>
+		<title>Hello Word!!!</title>
+	</head>
+
+	<body>
+		1) Escrever todas as tags e atributos em minusculos
+		Errado: (H1) (/H1)
+		Correto: (h1) (/h1)
+
+		2)Alinhas as tags
+		Devemos sempre que abrirmo uma tag, fechar na mesma sequência
+		Exemplo: (tag1)(tag2)(tag3)(/tag3)(/tag2)(/tag1)
+		
+		3)Fechar TODAS as tags abertas
+		
+		4) Todo valor dos atributos deve vir entre aspas duplas
+		
+		5) Não usar "name" como identificador; mas sim o "id"
+		
+		6) Usar o atributo "alt" em imagens
+
+	</body>
+</html>

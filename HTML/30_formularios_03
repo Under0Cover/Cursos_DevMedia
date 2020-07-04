@@ -1,0 +1,32 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd" >
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<title>TAG form - Formulários</title>
+		<meta name="Description" content=""/>
+		<meta name="Keywords" content="" />
+	</head>
+	<body>
+		<form method="post" action="sophie001.jfif"  >
+				<table width="600" border="1" align="center" cellpadding="5" >
+					<tr>
+						<td>Campo de Arquivo:</td>
+						<td><input type="file" name="nomedocampo" id="iddocampo" /> </td>
+					</tr>
+					<tr>
+						<td>Campo de TextArea:</td>
+						<td>	
+								<textarea name="campodetextarea" id="iddecampodetextarea" cols="45" rows="10"></textarea>
+						</td>
+					</tr>
+					<tr>
+						<td>Botões:</td>
+						<td>
+							<input type="submit" name="botaosubmit" id="iddobotaosubmit" value="Clique aqui para enviar" />
+							<input type="reset" name="botaoreset" id="iddobotaoreset" value="Limpar Formulário!"
+						</td>
+					</tr>
+				</table>
+		</form>
+	</body>
+</html>

@@ -1,0 +1,24 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd" >
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<title>TAG Font</title>
+		<meta name="Description" content=""/>
+		<meta name="Keywords" content="" />
+		
+		
+	</head>
+	<body>
+		<font size="5" face="arial, verdana, georgian">
+		<i><u>Lorem ipsum</u></i></font><font> dolor sit amet, consectetur adipiscing elit. Morbi nibh felis, mollis nec leo ac, cursus varius leo. Pellentesque a mauris non ligula blandit scelerisque eu facilisis dui. Maecenas tristique hendrerit urna, in posuere nisi varius quis. Morbi auctor enim eget suscipit gravida. Nunc urna mi, maximus eu nisi quis, fermentum fringilla eros. Suspendisse hendrerit tempor ultrices. In dictum pharetra sagittis.<br/>
+
+		Fusce consectetur ligula diam, eget blandit velit auctor quis. Donec et gravida odio. Nam quis gravida massa, eu sodales lorem. Integer venenatis nibh nunc. Duis bibendum hendrerit ante a sollicitudin. Donec interdum elit at nunc commodo auctor. Duis gravida orci magna, id faucibus purus varius a.<br/>
+
+		Morbi fermentum, tellus sit amet euismod feugiat, nulla tellus feugiat magna, sed elementum turpis neque a nisi. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Morbi nisi risus, fringilla id libero ut, vulputate accumsan quam. Phasellus id orci ac urna euismod dictum vel eu erat. Aliquam id molestie sapien, nec aliquet eros. Quisque sit amet dui tempor, venenatis dui id, laoreet erat. Curabitur neque tortor, condimentum sed condimentum non, fermentum eget ex. Aliquam erat volutpat. Etiam finibus sit amet mi ut dictum. Nullam posuere odio non facilisis hendrerit. Nullam vel leo at nisl ornare bibendum.<br/>
+
+		Proin tincidunt placerat nisl. Aenean finibus ante quis est aliquam finibus. Fusce iaculis interdum venenatis. Nulla malesuada ut enim vel tempus. Phasellus quis accumsan nunc, quis facilisis libero. Quisque scelerisque mattis enim, vel iaculis mauris molestie ultricies. Maecenas tempor nibh dolor, eget lacinia turpis consectetur non. Aliquam quis diam vel risus posuere rhoncus at sit amet nisl.<br/>
+
+		Nunc mi sapien, gravida et lorem vitae, dignissim porta diam. Vivamus eu orci eget libero euismod efficitur. Proin ac odio iaculis, tempor sem non, finibus enim. Integer mi eros, semper vel semper eu, sagittis vel dolor. Sed eget tellus interdum, accumsan leo ac, malesuada risus. Nunc eros lectus, auctor vel placerat a, pellentesque sed erat. Curabitur fermentum semper velit vitae finibus. Mauris ut libero in risus pharetra scelerisque. Pellentesque porta magna at malesuada luctus. Cras porttitor malesuada ante id ultricies. Fusce euismod velit est, vel fringilla ligula finibus vitae. <br/>
+		</font>
+	</body>
+</html>

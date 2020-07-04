@@ -1,0 +1,46 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd" >
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<title>TAG table - TABELAS</title>
+		<meta name="Description" content=""/>
+		<meta name="Keywords" content="" />
+	</head>
+	<body>
+		<table border="1" cellpadding="5" cellspacing="5" width="600" >
+			<tr align="center" bgcolor="yellow">
+				<td>
+					<table width="100%" border="1">
+						<tr>
+							<td>Valor 1</td>
+							<td>Valor 2</td>
+							<td>Valor 3</td>
+						</tr>
+						<tr>
+							<td>Valor 4</td>
+							<td>Valor 5</td>
+							<td>Valor 6</td>
+						</tr>
+						<tr>
+							<td>Valor 7</td>
+							<td>Valor 8</td>
+							<td>Valor 9</td>
+						</tr>
+					</table>
+				</td>
+				<td>Valor B</td>
+				<td>Valor C</td>
+			</tr>
+			<tr align="left">
+				<td>Valor D</td>
+				<td>Valor E</td>
+				<td>Valor F</td>
+			</tr>
+			<tr align="center" bgcolor="red">
+				<td>Valor G</td>
+				<td>Valor H</td>
+				<td>Valor I</td>
+			</tr>
+		</table>
+	</body>
+</html>

@@ -1,0 +1,67 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd" >
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<title>Listas Ordenadas</title>
+		<meta name="Description" content=""/>
+		<meta name="Keywords" content="" />
+	</head>
+	<body>
+		<h3>Listas Ordenadas</h3>
+		<h4>Formato Padrão</h4>
+		<ol>
+			<li>Elemento da Lista Ordenada</li>
+			<li>Elemento da Lista Ordenada</li>
+			<li>Elemento da Lista Ordenada</li>
+				<ol type="a">
+					<li>Elemento da Lista Ordenada</li>
+					<li>Elemento da Lista Ordenada</li>
+					<li>Elemento da Lista Ordenada</li>
+					<li>Elemento da Lista Ordenada</li></ol>
+		</ol><ol start="4"><li>Elemento da Lista Ordenada</li>
+			<li>Elemento da Lista Ordenada</li>
+			<li>Elemento da Lista Ordenada</li>
+			<li>Elemento da Lista Ordenada</li>
+			<li>Elemento da Lista Ordenada</li>
+		</ol>
+		<h4>Atributo Start</h4>
+		<ol start="5">
+			<li>Elemento da Lista Ordenada</li>
+			<li>Elemento da Lista Ordenada</li>
+			<li>Elemento da Lista Ordenada</li>
+			<li>Elemento da Lista Ordenada</li>
+		</ol>
+		<h4>Type = a</h4>
+		<ol type="a">
+			<li>Elemento da Lista Ordenada</li>
+			<li>Elemento da Lista Ordenada</li>
+			<li>Elemento da Lista Ordenada</li>
+			<li>Elemento da Lista Ordenada</li>
+		</ol>
+		<h4>Type = A</h4>
+		<ol type="A">
+			<li>Elemento da Lista Ordenada</li>
+			<li>Elemento da Lista Ordenada</li>
+			<li>Elemento da Lista Ordenada</li>
+			<li>Elemento da Lista Ordenada</li>
+		</ol>
+		<h4>Type = i</h4>
+		<ol type="i">
+			<li>Elemento da Lista Ordenada</li>
+			<li>Elemento da Lista Ordenada</li>
+			<li>Elemento da Lista Ordenada</li>
+			<li>Elemento da Lista Ordenada</li>
+			<li>Elemento da Lista Ordenada</li>
+			<li>Elemento da Lista Ordenada</li>
+		</ol>
+		<h4>Type = I</h4>
+		<ol type="I">
+			<li>Elemento da Lista Ordenada</li>
+			<li>Elemento da Lista Ordenada</li>
+			<li>Elemento da Lista Ordenada</li>
+			<li>Elemento da Lista Ordenada</li>
+			<li>Elemento da Lista Ordenada</li>
+			<li>Elemento da Lista Ordenada</li>
+		</ol>
+	</body>
+</html>

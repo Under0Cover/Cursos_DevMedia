@@ -1,0 +1,19 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Framset//EN" "http://w3.org/TR/xhtml1/DTD/xhtml1-frameset.dtd" >
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<title>TAG frameset </title>
+		<meta name="Description" content=""/>
+		<meta name="Keywords" content="" />
+	</head>
+		<frameset rows="25%,*,25%">
+			<frame src="http://google.com">
+			<frame src="http://devmedia.com">
+			<frame src="http://globoesporte.globo.com">
+		</frameset>
+	<noframes>
+		<body>
+			O seu Browser não suporta frames. 
+		</body>
+	</noframes>
+</html>

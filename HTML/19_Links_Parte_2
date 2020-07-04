@@ -1,0 +1,17 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd" >
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<title>Trabalhando com Links</title>
+		<meta name="Description" content=""/>
+		<meta name="Keywords" content="" />
+	</head>
+	<body>
+		<h3>Trabalhando com Links</h3>
+		
+		<p>Você pode acessar o site da DevMedia <a href="http://DevMedia.com.br" target="_blank" >Clicando aqui</a>.</p>
+		<p>Faça aqui o <a href="Vídeo_Aula_HTML_19.zip" target="_blank" >donwload</a> dessa vídeo-aula.</p>
+		<p><a href="mailto:talis.oliveira@hotmail.com.br" >Clique aqui</a> para enviar um e-mail.</p>
+		<p>Acesse o texto da <a href="20_Ancoras#equipe">Equipe</a> da Próxima Vídeo Aula</p>
+	</body>
+</html>

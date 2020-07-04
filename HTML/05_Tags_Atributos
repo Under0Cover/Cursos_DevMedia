@@ -1,0 +1,16 @@
+<html>
+	<head>
+		<title>Aula 05</title>
+	</head>
+	<body>
+		<h1>Tags Compostas</h1>
+		<hr />
+		<p>Este é um texto sem atributos</p>
+		<hr />
+		<p align="center">Este é um texto com atributos de centralização</p>
+		<hr />
+		<p align="right">Este é um texto com atributos de alinhamento à direita</p>
+		<hr />
+		<tag nome_atributo="valor do atributo">Algum valor</tag>
+	</body>
+</html>

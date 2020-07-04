@@ -1,0 +1,20 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd" >
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<title>DIV's</title>
+		<meta name="Description" content=""/>
+		<meta name="Keywords" content="" />
+		<link href="estilo.css" rel="stylesheet" type="text/css" />
+	</head>
+	<body>
+		<div class="div_geral">
+			<div class="div_margeminferior">
+				Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed egestas purus id lacus consequat, ac condimentum elit venenatis. Aenean porttitor consectetur risus, eu varius nisi. Integer in eleifend dolor, vel auctor magna. In elementum felis nec hendrerit dignissim. Curabitur suscipit libero nec erat luctus sollicitudin. Nullam dictum vulputate augue sit amet varius. Mauris dictum risus at fermentum rhoncus. Etiam id eros quis eros rhoncus consequat non sit amet leo. 
+			</div>
+			<div class="div_margeminferior">
+				Suspendisse dictum velit eu turpis tincidunt, non ornare justo pellentesque. Ut cursus tellus nec nunc vestibulum, posuere tempus nisl placerat. Pellentesque rutrum dapibus ligula. Pellentesque pulvinar, nibh sed sollicitudin luctus, mi felis sodales metus, at euismod dui sapien ut ligula. Sed lacinia eget urna quis iaculis. Integer sit amet vulputate ligula, a eleifend elit. Nullam eget feugiat orci. Morbi sodales neque eget est mollis cursus. Curabitur convallis felis a faucibus porta. Etiam dapibus posuere enim non consequat. Proin gravida aliquam vehicula. Maecenas elementum lacus nec eleifend varius. Nam iaculis pellentesque porttitor. 
+			</div>
+		</div>
+	</body>
+</html>

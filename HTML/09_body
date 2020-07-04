@@ -1,0 +1,14 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd" >
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<title>Elemento Body</title>
+		<meta name="Description" content="Vídeoaula relativa ao uso do elemento Body"/>
+		<meta name="Keywords" content="Vídeoaula, DevMedia, Curso, HTML" />
+		
+		
+	</head>
+	<body background="under.jpg" text="#FFFFFF" link="gray" vlink="yellow" lang="pt" topmargin="50" leftmargin="50" >
+		<p>Cores hexadeciamis: <a href="https://www.w3schools.com/tags/ref_colornames.asp">http://www.w3schools.com/html/html_colors.asp</a></p>
+	</body>
+</html>

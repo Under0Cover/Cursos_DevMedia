@@ -1,0 +1,14 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd" >
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<title>Trabalhando com Links</title>
+		<meta name="Description" content=""/>
+		<meta name="Keywords" content="" />
+	</head>
+	<body>
+		<h3>Trabalhando com Links</h3>
+		
+		<p>Os links são chamados também de hiperlinks. Maiores informações: <a href="http://www.devmedia.com.br">DevMedia</a></p>
+	</body>
+</html>

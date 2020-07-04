@@ -1,0 +1,57 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd" >
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<title>Listas Não Ordenadas</title>
+		<meta name="Description" content=""/>
+		<meta name="Keywords" content="" />
+	</head>
+	<body>
+		<h3>Listas não ordenadas</h3>
+		<h4>Formatação Padrão</h4>
+		<ul>
+		<li>Item 01</li>
+			<ul>
+				<li>Sub Item 01 do Item 01</li>
+				<li>Sub Item 02 do Item 01</li>
+				<li>Sub Item 03 do Item 01</li>
+					<ul>
+					<li>Sub Item A do Sub Item 03 do Item 01</li>
+					<li>Sub Item B do Sub Item 03 do Item 01</li>
+					</ul>
+				<li>Sub Item 04 do Item 01</li>
+			</ul>
+		<li>Item 02</li>
+			<ul>
+				<li>Sub Item 01 do Item 02</li>
+				<li>Sub Item 02 do Item 02</li>
+					<ul>
+					<li>Sub Item A do Sub Item 02 do Item 02</li>
+					<li>Sub Item B do Sub Item 02 do Item 02</li>
+					<li>Sub Item C do Sub Item 02 do Item 02</li>
+					</ul>
+				<li>Sub Item 03 do Item 02</li>
+				<li>Sub Item 04 do Item 02</li>
+			</ul>
+		<li>Item 03</li>
+		</ul>
+		<h4>Type = Circle</h4>
+		<ul type="circle">
+		<li>Item 01</li>
+		<li>Item 02</li>
+		<li>Item 03</li>
+		</ul>
+		<h4>Type = Square</h4>
+		<ul type="square">
+		<li>Item 01</li>
+		<li>Item 02</li>
+		<li>Item 03</li>
+		</ul>
+		<h4>Type = Disc<h4>
+		<ul type="disc">
+		<li>Item 01</li>
+		<li>Item 02</li>
+		<li>Item 03</li>
+		</ul>
+	</body>
+</html>

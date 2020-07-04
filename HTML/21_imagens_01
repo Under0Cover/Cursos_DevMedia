@@ -1,0 +1,15 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd" >
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<title>TAG img - IMAGENS</title>
+		<meta name="Description" content=""/>
+		<meta name="Keywords" content="" />
+	</head>
+	<body>
+			<p>Caminho Relativo - Imagem no mesmo servidor da Página</p>
+			<img src="under.jpg" />
+			<p>Caminho Absoluto - Imagem em outro servidor da Página</p>
+			<a href="https://www.midianews.com.br/variedades/gisele-bundchen-chega-deslumbrante-em-evento-de-moda-em-sao-paulo/304315"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-GxC__w6l0oKdFUZvPk4Hkty7vZ_JrzTTiw_HBVL5pXW0CQBfog" /></a>
+	</body>
+</html>
